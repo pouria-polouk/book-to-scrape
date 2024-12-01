@@ -5,10 +5,10 @@ Why the project is useful
 This project serves as a practical example of web scraping using Python modules like "requests" and "bs4 (BeautifulSoup)". It is useful for anyone interested in data collection and mining from online sources.
 
 How users can get started with the project?
--Ensure Python is installed.
--Install the required libraries: requests and bs4.
--Download and run the project files.
--The SQLite database will be generated automatically.
+Ensure Python is installed. 
+Install the required libraries: requests and bs4. 
+Download and run the project files. 
+The SQLite database will be generated automatically.
 
 Where users can get help with your project?
 Users can ask questions and report issues in the Issues section of the GitHub repository. They can also refer to the project documentation and online resources related to web scraping for help.
