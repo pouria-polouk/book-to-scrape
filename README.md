@@ -7,7 +7,7 @@ This project serves as a practical example of web scraping using Python modules 
 How users can get started with the project?
 Ensure Python is installed. 
 Install the required libraries: requests and bs4. 
-Download and run the project files. 
+Download and run the project files (https://github.com/pouria-polouk/book-to-scrape).
 The SQLite database will be generated automatically.
 
 Where users can get help with your project?
